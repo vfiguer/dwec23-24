@@ -171,10 +171,21 @@ letras.forEach(letra => {
 
 console.log(mayusculas)*/
 
-let tabla = new array[];
+let tabla = new array[10];
 
 let i = 
 
 tabla[i] =new array [5];
 
-for (let fila = 0)
+for (let fila = 0; fila < tabla.length; fila++) {
+let i;
+    for (let numero =0; numero<=10; numero++);{
+        let multiplo = 1;
+        numero * multiplo;
+        multiplo++
+        let i = 0
+        fila[i] = multiplo
+        i++
+    }
+}
+
