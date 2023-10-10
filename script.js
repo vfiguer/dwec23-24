@@ -91,7 +91,7 @@ else {
 
 /*Estructura de control, se utiliza para controlar el flujo de unm programa y se utiliza para ejecutar un bloque de codigo si se cumple una condicion*/
 
-let edad = 8;
+/*let edad = 8;
 
 let mayorEdad = (edad>=18)
 
@@ -100,7 +100,7 @@ if (edad<=11){
 }
 else if (edad>=11) {
 
-}
+}*/
 
 //se utiliza cuando se quiera hacer una estructura condicional segun el valor que quiera tener un valor o expresion
 
@@ -139,3 +139,42 @@ while(contador<100);*/
 }
 
 break se usa para parar la ejecucion de un bucle*/
+
+/*UNIDAD 4
+
+let vacio = []; array sin elementos
+let primos = [2, 3, 5, 7, 11];
+
+
+let array = [1,2,3]
+deleta  a[2];
+//borrar una posicion del array
+
+
+*/
+/*let letras = [..."Hola amiguitos"];
+let aux = "";
+
+for (let letra of letras){
+    aux=letra;
+}
+console.log[aux];
+aux ="";
+
+let mayusculas = "";
+console.log(letras);
+letras.forEach(letra => {
+    if (letra % 2 ==0){        
+        mayusculas == letra.toUpperCase
+    } 
+});
+
+console.log(mayusculas)*/
+
+let tabla = new array[];
+
+let i = 
+
+tabla[i] =new array [5];
+
+for (let fila = 0)

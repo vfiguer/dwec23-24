@@ -53,14 +53,14 @@ function temperaturas () {
     //usamos un condicional para saber si es mas de 30 grados la media
 
 
-    console.log (mitjanaAny2010 + mitjanaAny2010Fahrenheit + mitjanaAny2010Kelvin)
+    console.log (mitjanaAny2010 + " " + mitjanaAny2010Fahrenheit + " " + mitjanaAny2010Kelvin)
     //imprimimos las medias
     if (superatAny2010 = true) {
         console.log ("Superat els 30 graus Celsius")
     }
     //si pasa de 30 grados imprimimos el aviso
 
-    console.log (mitjanaAny2015 + mitjanaAny2015Fahrenheit + mitjanaAny2015Kelvin)
+    console.log (mitjanaAny2015 + " " +  mitjanaAny2015Fahrenheit + " " +  mitjanaAny2015Kelvin)
     //imprimimos las medias
 
     if (superatAny2015 = true) {
@@ -68,7 +68,7 @@ function temperaturas () {
     }
     //si pasa de 30 grados imprimimos el aviso
 
-    console.log (mitjanaAny2020 + mitjanaAny2020Fahrenheit + mitjanaAny2020Kelvin)
+    console.log (mitjanaAny2020 + " " +  mitjanaAny2020Fahrenheit + " " +  mitjanaAny2020Kelvin)
     //imprimimos las medias
 
     if (superatAny2020 = true) {
